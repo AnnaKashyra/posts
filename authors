@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "numPosts": 5,
+    "numComments": 24,
+    "numLikes": 59
+  },
+  {
+    "id": "2",
+    "firstName": "Sara",
+    "lastName": "Baboo",
+    "numPosts": 15,
+    "numComments": 27,
+    "numLikes": 49
+  }
+]
